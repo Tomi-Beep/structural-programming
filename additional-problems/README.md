@@ -1,5 +1,5 @@
 # Additional Problems
-> Include problems from some laboratories and problems given for exams
+> Includes problems from some laboratories and problems given for exams
 
 ## Problem 1
 Од стандарден влез се чита цел број N (N<=100) и потоа N низи од знаци. Низите знаци содржат букви, цифри и специјални знаци (без знаци за празно место), а секоја од нив не е подолга од 80 знаци.
