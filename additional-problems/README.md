@@ -302,3 +302,34 @@ X U T Y O **E**
 во 3тата редица нема штосни броеви и се печати 2: 0
 
 во 4тата редица се броевите 21, 4, 21, вкупниот број на штосни броеви е 3 и се печати 3: 3
+
+## Problem 13
+From the standard input, a square matrix with n rows and columns is read. First, the number n is read, and then the n x n elements of the matrix are read.
+
+Your task is to write a program in C++ that will determine if the given matrix is a 'magic square.'
+
+A magic square is a square matrix where the sum of the elements in each row and column is the same.
+
+If the matrix is a 'magic square,' print "True" and replace the elements from the main and secondary diagonals with the sum of the elements that is the same for each row and column.
+
+Otherwise, print "False".
+
+## Problem 14
+Од стандарден влез да се прочита квадратна матрица со број на редици и колони N. Прво се вчитува бројот N а потоа и N*N елементите на матрицата.
+
+Ваша задача е да ги пронајдете минималниот и максималниот број од секоја редица и соодветно да ги промените во 0 и 1 (min=0, max=1)
+
+Доколку најмалиот или најголемиот број се повторуваат повеќе пати треба сите да се променат.
+
+На крај испечатете ја трансформираната матрица.
+
+## Problem 15
+Да се напише програма која вчитува квадратна матрица. На почетокот се внесува бројот на редици и колони N на матрицата, а потоа и елементите на матрицата. Да се трансформира матрицата на тој начин што секој негативен број во неа би се заменил со збирот на неговите соседи. Соседи на даден број во матрица се броевите до него (гледано хоризонтално и вертикално).
+
+## Problem 16
+Read a square matrix with number of rows and columns N from standard input. First the number N is loaded and then the N*N elements of the matrix. Your task is to find the minimum element in each odd-numbered row and add this minimum value to every element in the subsequent (even-numbered) row.
+
+## Problem 17
+On standard input, a number N is entered for an NxN dimensional matrix, then the elements of the matrix are entered. After entering the matrix, a value for the Y column and Y row is also entered.
+
+Transform the matrix so that the main diagonal is replaced by the Y column, and the Y column and Y row are replaced by the main diagonal.
